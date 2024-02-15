@@ -1,4 +1,4 @@
-# BreadcrumbsRainbow-rotating-wheel
+# Rainbow-rotating-wheel
 Hello Folks!
 This project creates a simple animated rotating rainbow wheel using HTML and CSS. The wheel is designed with a conic gradient to achieve a vibrant rainbow effect, and the animation is implemented through keyframes and the transform property.
 
